@@ -1,0 +1,4 @@
+﻿  Game.cpp
+C:\Users\killi\Desktop\проекты\Игра\The Game v0.2\Game\Game\Game.cpp(64,37): warning C4244: *=: преобразование "double" в "int", возможна потеря данных
+C:\Users\killi\Desktop\проекты\Игра\The Game v0.2\Game\Game\Game.cpp(105,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Game.vcxproj -> C:\Users\killi\Desktop\проекты\Игра\The Game v0.2\Game\Debug\Game.exe

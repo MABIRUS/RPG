@@ -1,0 +1,4 @@
+﻿  function.cpp
+C:\Users\MABIRUS\Desktop\Проекты программ\Курсач\Project-A-main\Game\function.cpp(212,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MABIRUS\Desktop\Проекты программ\Курсач\Project-A-main\Game\function.cpp(305,34): warning C4244: *=: преобразование "double" в "int", возможна потеря данных
+  Game.vcxproj -> C:\Users\MABIRUS\Desktop\Проекты программ\Курсач\Project-A-main\x64\Debug\Game.exe

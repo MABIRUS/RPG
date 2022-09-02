@@ -1,0 +1,1 @@
+void lvl_inic(int const& n, int* lvl, int* lvl_hp, int* lvl_exp, int* lvl_dmg);
